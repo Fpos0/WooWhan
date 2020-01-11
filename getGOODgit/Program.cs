@@ -13,6 +13,10 @@ namespace getGOODgit
             Console.WriteLine("boa noite comunidade");
 
             Console.WriteLine("MISEEERA");
+
+
+
+            Console.ReadLine();
         }
     }
 }
