@@ -10,6 +10,9 @@ namespace getGOODgit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("boa noite comunidade");
+
+            Console.WriteLine("MISEEERA");
         }
     }
 }
